@@ -6,7 +6,7 @@ The application allows users to upload a PDF document, ask questions about the d
 
 ## 📸 Project Screenshot
 
-![FAQ Bot Screenshot](screenshots/faq-bot.png)
+![FAQ Bot Screenshot](Screenshots/faq_bot.png)
 
 ## 🚀 Features
 
